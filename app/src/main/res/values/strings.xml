@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="param">settings here!!!!!!!!!!</string>
+    <string name="profile">profile here !!!!!! </string>
+    <string name="news">Nous pourrions afficher un fil d\'actualité ici non ?</string>
+</resources>
